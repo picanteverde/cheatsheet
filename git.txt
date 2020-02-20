@@ -1,4 +1,3 @@
+1- Git init: crea el repo local (.git).
+2- Git Status: calcula la diferencia entre W dir y repo local.
 
- Git Status: calcula la diferencia entre W dir y repo local
-
-git init: crea el repo local (.git)
