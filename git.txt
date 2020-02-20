@@ -1,4 +1,3 @@
 
- Git Status: calcula la diferencia entre W dir y repo local
 
-git init: crea el repo local (.git)
+3- Git add: pone todos los cambios en el area de staging.
